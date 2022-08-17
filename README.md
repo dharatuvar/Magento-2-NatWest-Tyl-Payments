@@ -4,7 +4,7 @@
 
 NatWest is one of the popular commercial banks in United Kingdom that offers wide range of products and services. Integrating NatWest Tyl payments in your Magento store makes it easy for businesses to accept card payments.
 
-Owing to its popularity, Meetanshi has developed [***Magento 2 NatWest Tyl Payments extension***] to integrate Magento 2 store with the payment gateway for capturing secure online payments with ease. 
+Owing to its popularity, Meetanshi has developed ***Magento 2 NatWest Tyl Payments extension*** to integrate Magento 2 store with the payment gateway for capturing secure online payments with ease. 
 
 On the other hand, it also supports auto-invoicing and helps generate credit memos to process refunds. The module uses a hosted payment method, where the customers’ data is neither stored nor processed in the Magento environment. 
 
